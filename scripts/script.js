@@ -5,8 +5,8 @@ $(document).ready(function(){
                 $("#page__content").text("Error: " + xhr.status + ": " + xhr.statusText);
         });
     });    
-    $("#link_blog").click(function(){
-        $("#page__content").load("blog.txt", function(responseTxt, statusTxt, xhr){
+    $("#link_photos").click(function(){
+        $("#page__content").load("photos.txt", function(responseTxt, statusTxt, xhr){
             if(statusTxt == "error")
                 $("#page__content").text("Error: " + xhr.status + ": " + xhr.statusText);
         });
