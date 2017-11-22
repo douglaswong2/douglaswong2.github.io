@@ -4,7 +4,7 @@
             <img src="https://www.catprotection.com.au/wp-content/uploads/2014/11/5507692-cat-m.jpg" alt="" />
         </div>
         <h2 class="archive__item-title" itemprop="headline">
-            <a id="link_img1" href="#" rel="permalink">Little Cat</a>
+            <a id="link_img1" href="#">Little Cat</a>
         </h2>
         <p class="archive__item-excerpt" itemprop="description">From internet</p>
     </article>
