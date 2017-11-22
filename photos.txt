@@ -1,0 +1,33 @@
+<div class="grid__item">
+    <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <div class="archive__item-teaser">
+            <img src="https://vincentherrmann.github.io/images/in-leeren-teaser.jpg" alt="" />
+        </div>
+        <h2 class="archive__item-title" itemprop="headline">
+            <a href="https://vincentherrmann.github.io/composition/in-leeren/" rel="permalink">In Leeren Räumen Leuchtend</a>
+        </h2>
+        <p class="archive__item-excerpt" itemprop="description">For Ensemble</p>
+    </article>
+</div>
+<div class="grid__item">
+    <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <div class="archive__item-teaser">
+            <img src="https://vincentherrmann.github.io/images/in-leeren-teaser.jpg" alt="" />
+        </div>
+        <h2 class="archive__item-title" itemprop="headline">
+            <a href="https://vincentherrmann.github.io/composition/in-leeren/" rel="permalink">In Leeren Räumen Leuchtend</a>
+        </h2>
+        <p class="archive__item-excerpt" itemprop="description">For Ensemble</p>
+    </article>
+</div>
+<div class="grid__item">
+    <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <div class="archive__item-teaser">
+            <img src="https://vincentherrmann.github.io/images/in-leeren-teaser.jpg" alt="" />
+        </div>
+        <h2 class="archive__item-title" itemprop="headline">
+            <a href="https://vincentherrmann.github.io/composition/in-leeren/" rel="permalink">In Leeren Räumen Leuchtend</a>
+        </h2>
+        <p class="archive__item-excerpt" itemprop="description">For Ensemble</p>
+    </article>
+</div>
