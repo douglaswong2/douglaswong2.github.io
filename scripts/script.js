@@ -14,7 +14,7 @@ $(document).ready(function(){
         $("#page__title").text("Photos");
     });  
     $("#link_img1").click(function(){
-        $("#page__content").text('<img src="https://www.catprotection.com.au/wp-content/uploads/2014/11/5507692-cat-m.jpg" alt="" />');
+        $("#page__content").text('Hello World!');
         $("#page__title").text("Little Cat");
     });
 });
