@@ -9,3 +9,9 @@
         <p class="archive__item-excerpt" itemprop="description">From internet</p>
     </article>
 </div>
+<script>
+    $("#link_img1").click(function(){
+        $("#page__content").text('Hello World!');
+        $("#page__title").text("Little Cat");
+    });
+</script>
