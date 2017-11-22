@@ -12,9 +12,5 @@ $(document).ready(function(){
                 $("#page__content").text("Error: " + xhr.status + ": " + xhr.statusText);
         });        
         $("#page__title").text("Photos");
-    });  
-    $("#link_img1").click(function(){
-        $("#page__content").text('Hello World!');
-        $("#page__title").text("Little Cat");
-    });
+    }); 
 });
